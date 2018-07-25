@@ -1,0 +1,52 @@
+
+{
+    "title": "js基础学习",
+    "structure": {
+      "readme": "README.md"
+    },
+    "links": {
+      "gitbook": false,
+      "sharing": {
+        "google": false,
+        "facebook": false,
+        "twitter": false,
+        "all": false
+      }
+    },
+    "styles": {
+      "website": "styles/website.css"
+    },
+    "plugins": [ 
+      "disqus"
+    ],
+    "pluginsConfig": {
+        "fontsettings": {
+          "theme": "white",
+          "family": "serif",
+          "size": 12
+        },
+        "disqus": {
+          "shortName": "webpack-handbook"
+        },
+        "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
+        },
+        "editlink": {
+          "base": "https://github.com/andyxmq",
+          "label": "编辑本页面"
+        },
+        "github": {
+          "url": "https://github.com/andyxmq/fast-cache"
+        },
+        "links": {
+          "gitbook": false,
+          "sharing": {
+              "google": false,
+              "facebook": false,
+              "twitter": false,
+              "all": false
+          }
+        }
+      }
+}
